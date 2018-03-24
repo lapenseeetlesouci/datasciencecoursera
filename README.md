@@ -1,6 +1,4 @@
----
-title: "DESIGN STUDY"
----
+# DESIGN STUDY
 
 We are extracing the data from the Human Activity Recognition Using Smartphones Dataset referenced in [1].
 

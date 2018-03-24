@@ -1,6 +1,4 @@
----
-title: "CODEBOOK"
----
+# CODEBOOK
 
 The original data are extracted from the Human Activity Recognition Using Smartphones Dataset referenced in [1].
 
