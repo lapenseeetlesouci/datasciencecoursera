@@ -2,7 +2,7 @@
 
 We are extracing the data from the Human Activity Recognition Using Smartphones Dataset referenced in [1].
 
-The tidy dataset can be found in the "tidydata.txt" file.
+The tidy dataset can be found in the "tidydata.txt" file. To reproduce this dataset, just run the 'run_analysis.R' file. (The original data will be downloaded into your working directory)
 
 A detailed information of the variables of our tidy dataset can be found in the 'CodeBook.md' file.
 
