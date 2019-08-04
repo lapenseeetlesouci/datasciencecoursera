@@ -130,7 +130,7 @@ The last two columns "activity" and "subjectid" are already properly labeled, fr
 
 We now need to give descriptive names for the measurements columns
 
-* step 1 - No abreviations : 
+* step 1 - No abbreviations : 
 
     -"Acc", "Gyro" and "Mag" stand for "accelerometer", "gyroscope" and "magnitude"
 
@@ -145,7 +145,7 @@ allcolnames <- sub("^t", "time", allcolnames)
 allcolnames <- sub("^f", "frequency", allcolnames)
 ```
 
-NOTE: We did not consider "std" as an abreviation, as it is at least as much used as the proper "standard deviation" expression.
+NOTE: We did not consider "std" as an abbreviation, as it is at least as much used as the proper "standard deviation" expression.
 
 * step 2 - No special characters (dash and parenthesis here)
 
